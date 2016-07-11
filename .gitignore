@@ -1,0 +1,20 @@
+/vendor/
+
+# Ignore build directory for continuous integration
+/build/
+/tmp/
+/.docker.db.rand
+
+# - IDE specific files
+# Eclipse
+/.project
+/.settings/
+/.buildpath
+
+# Netbeans
+/nbproject
+
+# phpStorm
+/.idea
+
+*DS_Store
